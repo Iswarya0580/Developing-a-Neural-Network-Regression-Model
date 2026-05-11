@@ -4,10 +4,11 @@
 To develop a neural network regression model for the given dataset.
 
 ## THEORY
-Explain the problem statement
+Neural Network Regression is used to predict continuous numeric values from input data. In this experiment, a neural network model is developed using one input feature and one output value to learn the relationship between them. The network consists of input, hidden, and output layers, where hidden layers use activation functions to capture patterns in the data. The model is trained using training data by minimizing Mean Squared Error (MSE) with an optimizer. After training, the model can accurately predict output values for new unseen inputs.
 
 ## Neural Network Model
-Include the neural network model diagram.
+<img width="962" height="697" alt="image" src="https://github.com/user-attachments/assets/08e8228c-aab7-4a21-974d-07f4b85fb751" />
+
 
 ## DESIGN STEPS
 ### STEP 1: 
